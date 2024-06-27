@@ -1,12 +1,4 @@
-### Sistema Solar ###
-Mercurio
-Venus
-Tierra
-Marte
-Júpiter
-Saturno
-Urano
-Neptuno
+
 ###Lunas###
 Titan 
 Fobos
