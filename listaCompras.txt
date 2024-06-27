@@ -7,3 +7,10 @@ Júpiter
 Saturno
 Urano
 Neptuno
+
+
+### LISTADO COMPRAS ####
+
+- PAN
+- ARROZ
+
