@@ -7,3 +7,16 @@ Júpiter
 Saturno
 Urano
 Neptuno
+
+
+### Otros Planetas ###
+Proxima Centauri b
+Kepler-22b
+TRAPPIST-1e
+TRAPPIST-1f
+TRAPPIST-1g
+Kepler-186f
+51 Pegasi b
+HD 209458 b
+Gliese 581g
+Gliese 667Cc
