@@ -20,9 +20,14 @@ Neptuno
 
 - PAN
 - ARROZ
+<<<<<<< HEAD
 
 
 ###Lunas###
 Titan 
 Fobos
 Deimos
+=======
+- ACEITE
+- HUEVOS
+>>>>>>> ft/nueva-lista-compras
